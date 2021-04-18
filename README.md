@@ -51,7 +51,7 @@
 <a target="_blank"href="https://github.com/geekytaurus115">  
   <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/github-24x24.png"  />&nbsp;&nbsp;
 </a>
-<a target="_blank"href="https://twitter.com/geekytaurus">
+<a target="_blank"href="https://twitter.com/geekympstaurus">
   <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-24x24.png"> &nbsp;
 </a>
 <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png" />  &nbsp;
