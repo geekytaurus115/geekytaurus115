@@ -54,8 +54,6 @@
 <a target="_blank"href="https://twitter.com/geekympstaurus">
   <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-24x24.png"> &nbsp;
 </a>
-<img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png" />  &nbsp;
-<img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/facebook-24x24.png" />
 
 </p>
 
