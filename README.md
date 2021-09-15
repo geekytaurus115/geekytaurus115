@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm geekytaurus</h1>Send feedback
+<h1 align="center">Hi 👋, I'm msgeekytaurus</h1>Send feedback
 <h3 align="center">¯\_(ツ)_/¯</h3>
 
 
