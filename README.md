@@ -8,13 +8,15 @@
 <br/>
 <h2 align="center">💙 About Me  </h2>
 
-- 💬 Ask me about Competitive Programming or any tech related stuff.
+- 💬 Ask me about Android Development, Competitive Programming or any tech related stuff.
 
 
 <br/>
 <br/>
 
 
+
+<!-- 
 <h2 align="center"> 🔭 Languages and Tools </h2>
 
 <p align="center">
@@ -31,7 +33,10 @@
 </p>
 
 
-
+ -->
+ 
+ 
+ 
 <br/>
 <h2 align="center">:high_brightness: Github Statistics </h2>
 <p align="center">
