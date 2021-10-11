@@ -1,70 +1,85 @@
-<h1 align="center">Hi 👋, I'm geekytaurus</h1>Send feedback
-<h3 align="center">¯\_(ツ)_/¯</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, &nbsp; I'm Mamata Shee</h1>
 
+ 
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="mystyle.svg" width="800" height="200" alt="geekytaurus">
+	</a>
+	<br>
+</div>
 
+<!-- ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles: -->
 
+<!-- <hr> -->
 
+<h2 align="center">💙 About Me</h2>
+<!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 
-<br/>
-<h2 align="center">💙 About Me  </h2>
-
-- 💬 Ask me about Android Development, Competitive Programming or any tech related stuff.
-
-
-<br/>
-<br/>
-
+- 📝 I'm working on **Android Development**.
+- 🌱 I would like to hear about **Competitive Programming**, **Android Development** or any tech related stuff.
+- 💬 Ask me about anything, I am happy to help;
 
 
 <!-- 
-<h2 align="center"> 🔭 Languages and Tools </h2>
+<p align="left"> <a href="https://twitter.com/msgeekytaurus" target="blank"><img src="https://img.shields.io/twitter/follow/msgeekytaurus?logo=twitter&style=for-the-badge" alt="msgeekytaurus" /></a> </p>
 
-<p align="center">
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>&nbsp;
-</p>
-
-
+<hr>
  -->
- 
- 
- 
-<br/>
+<!-- 
+### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://github.com/sponsors/geekytaurus115) 💰 💵 :sparkles: -->
+
+
+</br>
 <h2 align="center">:high_brightness: Github Statistics </h2>
 <p align="center">
-  
 <a href="https://github.com/geekytaurus115">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekytaurus115&theme=dark&hide_langs_below=1 alt="geekytaurus" />
-</a>
-                                                                                                                                                     
+</a>                                                                                                                                                     
 <a href="https://github.com/geekytaurus115">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekytaurus115&show_icons=true&icon_color=bb2acf&theme=dark&line_height=33" alt="geekytaurus"/>
 </a>
 </p>
 
-<br/>
-<h2 align="center">📫 Reach out to me on</h2>
-<p align="center">
-<a target="_blank"href="https://github.com/geekytaurus115">  
-  <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/github-24x24.png"  />&nbsp;&nbsp;
-</a>
-<a target="_blank"href="https://twitter.com/msgeekytaurus">
-  <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-24x24.png"> &nbsp;
-</a>
+
+
+</br>
+<h2 align="center">💻 Languages and Tools </h2> 
+<p align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 	
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 	
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+
+
+
+<!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+-->
 
 </p>
 
 
+<h2 align="center">💎 Connect with me</h2>
+<p align="center">
+<a href="https://twitter.com/msgeekytaurus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msgeekytaurus" height="30" width="40" /></a>
+<a href="https://github.com/geekytaurus115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="geekytaurus115" height="30" width="40" /></a>
+</p>
+
+
+
 <div align="center">
-
+		   
 ### Show some ❤️ by starring some of the repositories!
-
+		   
 </div>
