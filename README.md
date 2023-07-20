@@ -35,10 +35,7 @@
 <p align="center">
 <a href="https://github.com/geekytaurus115">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekytaurus115&theme=dark&hide_langs_below=1 alt="geekytaurus" />
-</a>                                                                                                                                                     
-<a href="https://github.com/geekytaurus115">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekytaurus115&show_icons=true&icon_color=bb2acf&theme=dark&line_height=33" alt="geekytaurus"/>
-</a>
+</a>                                                                                                            
 </p>
 
 
