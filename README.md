@@ -21,23 +21,6 @@
 - 💬 Ask me about anything, I am happy to help;
 
 
-<!-- 
-<p align="left"> <a href="https://twitter.com/msgeekytaurus" target="blank"><img src="https://img.shields.io/twitter/follow/msgeekytaurus?logo=twitter&style=for-the-badge" alt="msgeekytaurus" /></a> </p>
-
-<hr>
- -->
-<!-- 
-### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://github.com/sponsors/geekytaurus115) 💰 💵 :sparkles: -->
-
-
-</br>
-<h2 align="center">:high_brightness: Github Statistics </h2>
-<p align="center">
-<a href="https://github.com/geekytaurus115">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekytaurus115&theme=dark&hide_langs_below=1 alt="geekytaurus" />
-</a>                                                                                                            
-</p>
-
 
 
 </br>
