@@ -17,7 +17,7 @@
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 
 <!-- - 💻 I'm working on **App Development**. -->
-- 🌱 I would like to hear about **Competitive Programming**, **Software Development** or any tech related stuff.
+- 🌱 I would like to hear about **Programming**, **Software Development** or any tech related stuff.
 - 💬 Ask me about anything, I am happy to help;
 
 
