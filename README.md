@@ -3,14 +3,14 @@
  
 <div align="center">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+	<a href="#">
 		<img src="mystyle.svg" width="800" height="200" alt="geekytaurus">
 	</a>
 	<br>
 </div>
 
 <!-- ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles: -->
-
+<!-- https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg -->
 <!-- <hr> -->
 
 <h2 align="center">💙 About Me</h2>
